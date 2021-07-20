@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgba(23,34,2,22);
+}
+.watch{
+    background: wheat;
+    width: 400px;
+    margin: 100px auto;
+   padding: 20px;
+}
+span{
+    float: right;
+    margin-top: -20px;
+}
+#clock{
+    font-size: 20px;
+    color: #fff;
+    padding: 30px;
+    font-size: 20px;
+    font-family: Tahoma;
+}
+h2{
+    text-align: center;
+    color: #fff;
+    margin-top: 30px;
+    font-family: Tahoma;
+    font-size: 40px;
+}
